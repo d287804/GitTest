@@ -5,6 +5,8 @@ namespace WinFormsApp1
         public Form1()
         {
             InitializeComponent();
+
+            Form2 f = new Form2();
         }
     }
 }
